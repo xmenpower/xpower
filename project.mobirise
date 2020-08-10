@@ -335,8 +335,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/3-1900x1267.jpeg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/first-img-1900x1267.jpg",
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -355,8 +355,8 @@
                 "overlayOpacity": "0.6"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/13-708-800x529.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/fore-2-902x601.jpeg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -375,7 +375,7 @@
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/13-947-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/therd-800x535.jpeg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
