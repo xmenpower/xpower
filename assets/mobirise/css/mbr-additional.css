@@ -1303,7 +1303,7 @@ section.lazy-placeholder:after {
 .cid-s7dv9XNK65 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #635a51;
 }
 .cid-s7dv9XNK65 .title {
   margin-bottom: 2rem;
@@ -1320,6 +1320,12 @@ section.lazy-placeholder:after {
 }
 .cid-s7dv9XNK65 textarea.form-control {
   min-height: 188px;
+}
+.cid-s7dv9XNK65 H2 {
+  color: #ffffff;
+}
+.cid-s7dv9XNK65 LABEL {
+  color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
